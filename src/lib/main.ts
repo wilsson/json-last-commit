@@ -38,7 +38,7 @@ function createJson(param: string | Buffer){
 		hash
 	] = param.toString().split("/");
 
-	let json = {
+	let json: JsonCommit = {
 		author,
 		email,
 		subject,
