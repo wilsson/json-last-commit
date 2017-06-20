@@ -1,18 +1,18 @@
 {
   "name": "json-last-commit",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.7",
+  "description": "Get some data from the last commit in a json",
+  "main": "./lib/main.js",
   "scripts": {
-    "test": "jest ./test/index.test.js",
+    "test": "jest",
     "build": "tsc -w"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wilsson/json-last-commit.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "wilsson",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wilsson/json-last-commit/issues"
   },
