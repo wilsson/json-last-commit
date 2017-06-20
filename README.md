@@ -1,4 +1,7 @@
-**json-last-commit** - Get some data from the last commit in a json.
+[![npm version](https://badge.fury.io/js/json-last-commit.svg)](https://badge.fury.io/js/json-last-commit)
+[![Build Status](https://travis-ci.org/wilsson/json-last-commit.svg?branch=master)](https://travis-ci.org/wilsson/json-last-commit)
+
+> **json-last-commit** - Get some data from the last commit in a json.
 
 ## Usage 
 
